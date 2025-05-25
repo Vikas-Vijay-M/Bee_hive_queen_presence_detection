@@ -1,0 +1,5 @@
+download the queen_present and non_queen audio(.wav) data from https://zenodo.org/records/2667806  
+extract both the files and copy to this directory structure 
+├── original_data/ 
+│ ├── non_queen/
+│ └── queen_present/
